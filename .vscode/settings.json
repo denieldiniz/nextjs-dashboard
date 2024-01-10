@@ -1,0 +1,9 @@
+{
+  "prettier.semi": false,
+  "css.completion.completePropertyWithSemicolon": false,
+  "less.completion.completePropertyWithSemicolon": false,
+  "scss.completion.completePropertyWithSemicolon": false,
+  "javascript.format.semicolons": "remove",
+  "typescript.format.semicolons": "remove",
+  "typescript.format.insertSpaceAfterSemicolonInForStatements": false
+}
